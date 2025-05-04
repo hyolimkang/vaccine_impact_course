@@ -1,0 +1,11 @@
+name: r-course
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.2
+  - r-irkernel
+  - r-ggplot2
+  - r-dplyr
+  - r-readr
+  - r-tidyr
+  - r-desolve
