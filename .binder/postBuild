@@ -1,4 +1,0 @@
-#!/bin/bash
-Rscript -e "install.packages(c('IRkernel', 'ggplot2', 'dplyr', 'readr', 'tidyr', 'deSolve'))"
-Rscript -e "IRkernel::installspec(user = FALSE)"
-
